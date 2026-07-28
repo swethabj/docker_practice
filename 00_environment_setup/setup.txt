@@ -1,0 +1,22 @@
+Laptop
+   │
+   ▼
+Git Installed
+   │
+   ▼
+GitHub Account
+   │
+   ▼
+Docker Desktop
+   │
+   ▼
+VS Code
+   │
+   ▼
+Go
+   │
+   ▼
+Create Repository
+   │
+   ▼
+First Commit
